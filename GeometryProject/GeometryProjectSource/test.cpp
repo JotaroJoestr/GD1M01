@@ -5,9 +5,11 @@
 
 test::test()
 {
+	
 }
 
 
 test::~test()
 {
+
 }
